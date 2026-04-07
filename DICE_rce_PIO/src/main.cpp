@@ -4,7 +4,9 @@ TFT_eSPI tft = TFT_eSPI();
 
 void setup() {
   tft.begin();
-  tft.fillScreen(TFT_BLUE);
+  tft.fillScreen(TFT_CYAN);
 }
 
-void loop() {}
+void loop() {
+
+}
